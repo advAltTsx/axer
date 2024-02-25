@@ -70,7 +70,7 @@ export default function Home() {
       value: "Messages",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-zinc-900/70 to-zinc-950/80">
-          <p>Head on to <span className=" text-blue-600 underline"> <Link href={'/messages'}>{'/messages'}</Link></span></p>
+          <p>[Updated] <br/>Head on to <span className=" text-blue-600 underline"> <Link href={'/messages'}>{'/messages'}</Link></span></p>
         </div>
       ),
     },

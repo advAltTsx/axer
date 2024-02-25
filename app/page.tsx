@@ -139,7 +139,7 @@ export default function Home() {
         </div>
       </DrawerContent>
     </Drawer> */}
-/**<div
+      {/*<div
       className="h-[400vh] bg-black w-full dark:border dark:border-white/[0.1] rounded-md relative pt-40 overflow-clip"
       ref={ref}
     >
@@ -152,9 +152,9 @@ export default function Home() {
           pathLengthFifth,
         ]}
       />
-    </div> **/
+    </div> */}
       
-      /**      <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
+      { /**      <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
               <Drawer shouldScaleBackground>
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>
@@ -184,18 +184,18 @@ export default function Home() {
                 </DrawerContent>
               </Drawer>
             </div> 
-**/
+**/}
 {/* <div className="h-[50rem] w-full dark:bg-black  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex items-center justify-center">
       <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-black [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
       <p className="text-4xl sm:text-7xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-8">
         Backgrounds
       </p>
     </div> */}
-  /**  <div className="flex justify-center">
+   <div className="flex justify-center">
           <div className="h-[20rem] md:h-[40rem] [perspective:1000px] relative b flex flex-col max-w-5xl mx-auto w-full  items-start justify-start my-40">
       <Tabs tabs={tabs} />
-    </div></div> **/
-      <div
+    </div></div> 
+      {/*    <div
       className="h-[400vh] bg-black w-full dark:border dark:border-white/[0.1] rounded-md relative pt-40 overflow-clip"
       ref={ref}
     >
@@ -208,7 +208,7 @@ export default function Home() {
           pathLengthFifth,
         ]}
       />
-    </div>
+    </div> */}
     </main> 
   );
 }

@@ -46,8 +46,7 @@ export default function Home() {
 
           <p className=" text-white">SA-B [maybe]</p>
           <p className=" text-white">SK-B</p>
-          <p className=" text-white">SS-B [respectable, bff]</p>
-        </div>
+                  </div>
       ),
     },
     {
@@ -55,6 +54,7 @@ export default function Home() {
       value: "Pro Max",
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-zinc-900/70 to-zinc-950/80">
+         <p className=" text-blue-600">SS-B</p>
           <p className=" text-white">SG</p>
           <p className=" text-white">RR</p>
           <p className=" text-white">SK</p>
@@ -88,12 +88,12 @@ export default function Home() {
       link: "/",
       icon: <IconHome className="h-8 w-8 text-neutral-500 dark:text-white" />,
     },
-  /*  {
+    {
       name: "Messages",
       link: "/messages",
       icon: <IconMessages className="h-6 w-6 text-neutral-500 dark:text-white" />,
 
-    },*/
+    },
     
   ];
  
@@ -139,7 +139,7 @@ export default function Home() {
         </div>
       </DrawerContent>
     </Drawer> */}
-{/* <div
+<div
       className="h-[400vh] bg-black w-full dark:border dark:border-white/[0.1] rounded-md relative pt-40 overflow-clip"
       ref={ref}
     >
@@ -152,9 +152,9 @@ export default function Home() {
           pathLengthFifth,
         ]}
       />
-    </div> */}
+    </div> 
       
-            {/* <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
+            <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
               <Drawer shouldScaleBackground>
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>
@@ -183,7 +183,7 @@ export default function Home() {
                   </div>
                 </DrawerContent>
               </Drawer>
-            </div> */}
+            </div> 
 
 {/* <div className="h-[50rem] w-full dark:bg-black  dark:bg-grid-white/[0.2] bg-grid-black/[0.2] relative flex items-center justify-center">
       <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black bg-black [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>

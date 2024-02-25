@@ -119,7 +119,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span >All the best, friend.</span>
+           <DrawerTitle><span className="text-white" >All the best, friend.</span>
            </DrawerTitle>
            
                       </div>

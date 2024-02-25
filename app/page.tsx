@@ -44,9 +44,9 @@ export default function Home() {
           <p className=" text-white">SA-B</p>
           <p className=" text-white">SA-B</p> */}
 
-          <p className=" text-white">SA-B</p>
+          <p className=" text-white">SA-B [maybe]</p>
           <p className=" text-white">SK-B</p>
-          <p className=" text-white">SS-B</p>
+          <p className=" text-white">SS-B [maybe]</p>
         </div>
       ),
     },

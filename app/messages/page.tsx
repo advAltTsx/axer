@@ -86,7 +86,7 @@ export default function Home() {
         </div>
       </DrawerContent>
     </Drawer> */}
-/**<div
+<div
       className="h-[400vh] bg-black w-full dark:border dark:border-white/[0.1] rounded-md relative pt-40 overflow-clip"
       ref={ref}
     >
@@ -106,7 +106,7 @@ export default function Home() {
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>
                     <h1 className="scroll-m-30 text-white underline p-6 text-2xl font-extrabold tracking-tight lg:text-5xl">
-                      {"What're you like?"}
+                      {"Yo"}
                     </h1>
                   </Button>
                 </DrawerTrigger>
@@ -119,9 +119,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className=" text-white">People ask me how I am, being myself, complexity or simplicity. I say, both.</span><br/>
-           <Link href="https://youtube.com/playlist?list=PLcp1KqeP2WdnKo__B0XbKg_KJCkld_8PK&si=VrDuzezoI9T1UQif"><span className=" text-blue-600 underline">This playlist reveals it all.</span>
-           </Link>
+           <DrawerTitle><span >All the best, friend.</span>
            </DrawerTitle>
            
                       </div>
@@ -131,7 +129,7 @@ export default function Home() {
                   </div>
                 </DrawerContent>
               </Drawer>
-            </div> **/
+            </div> 
           
     </main>
   );

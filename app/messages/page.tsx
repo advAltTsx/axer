@@ -106,7 +106,7 @@ export default function Home() {
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>
                     <h1 className="scroll-m-30 text-white underline p-6 text-2xl font-extrabold tracking-tight lg:text-5xl">
-                      {'Listen'}
+                      {"What're you like?"}
                     </h1>
                   </Button>
                 </DrawerTrigger>
@@ -118,8 +118,11 @@ export default function Home() {
                             <h1 className=" text-blue-600 cursor-pointer p-6">Okay</h1>
                         </DrawerClose>
                       </div>
-                      <div className="flex flex-col justify-center text-center h-full py-10 pt-16">
-           <DrawerTitle><span className=" text-white">All the best, friend.</span></DrawerTitle>
+                      <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
+           <DrawerTitle><span className=" text-white">People ask me how I am, being myself, complexity or simplicity. I say, both.</span><br/>
+           <Link href="https://youtube.com/playlist?list=PLcp1KqeP2WdnKo__B0XbKg_KJCkld_8PK&si=VrDuzezoI9T1UQif"><span className=" text-blue-600 underline">This playlist reveals it all.</span>
+           </Link>
+           </DrawerTitle>
            
                       </div>
                     </DrawerHeader>

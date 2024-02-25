@@ -65,7 +65,7 @@ export default function Home() {
         </div>
       ),
     },
-  /*  {
+    {
       title: "Messages",
       value: "Messages",
       content: (
@@ -73,7 +73,7 @@ export default function Home() {
           <p>[Updated] <br/>Head on to <span className=" text-blue-600 underline"> <Link href={'/messages'}>{'/messages'}</Link></span></p>
         </div>
       ),
-    }, */
+    }, 
     
   ];
 

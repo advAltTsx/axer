@@ -88,12 +88,12 @@ export default function Home() {
       link: "/",
       icon: <IconHome className="h-8 w-8 text-neutral-500 dark:text-white" />,
     },
-    {
+  /*  {
       name: "Messages",
       link: "/messages",
       icon: <IconMessages className="h-6 w-6 text-neutral-500 dark:text-white" />,
 
-    },
+    },*/
     
   ];
  

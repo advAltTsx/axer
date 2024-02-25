@@ -86,7 +86,7 @@ export default function Home() {
         </div>
       </DrawerContent>
     </Drawer> */}
-<div
+/**<div
       className="h-[400vh] bg-black w-full dark:border dark:border-white/[0.1] rounded-md relative pt-40 overflow-clip"
       ref={ref}
     >
@@ -101,7 +101,7 @@ export default function Home() {
       />
     </div>
       
-        /**     <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
+           <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
               <Drawer shouldScaleBackground>
                 <DrawerTrigger asChild>
                   <Button variant={'link'}>

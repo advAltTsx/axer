@@ -20,11 +20,9 @@ export const GoogleGeminiEffect = ({
   className?: string;
 }) => {
   return (
-    <div className={cn("sticky top-10", className)}>
+    <div className={cn("sticky top-24", className)}>
       
-      <p className="text-lg md:text-7xl font-normal pb-2 text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-300">
-        {title || `Sponsoring: SS-B, bff#1`}
-      </p>
+      
       <p className="text-xs md:text-xl font-normal text-center text-neutral-400 mt-2 max-w-lg mx-auto">
         {description ||
           `Page views: 522K`}

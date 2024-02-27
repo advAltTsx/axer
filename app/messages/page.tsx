@@ -27,6 +27,7 @@ import React from "react";
 import { GoogleGeminiEffect } from "../.././components/ui/google-gemini-effect";
 import { FloatingNav } from "../.././components/ui/floating-navbar";
 import { IconHome, IconMessage, IconUser } from "@tabler/icons-react";
+import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 
 
 export default function Home() {
@@ -104,11 +105,12 @@ export default function Home() {
            <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
               <Drawer shouldScaleBackground>
                 <DrawerTrigger asChild>
-                  <Button variant={'link'}>
-                    <h1 className="scroll-m-30 text-white underline p-6 text-2xl font-extrabold tracking-tight lg:text-5xl">
-                      {"Yo"}
-                    </h1>
-                  </Button>
+                <button className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none">
+  <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#076EFF_0%,#FFB7C5_25%,#FFDDB7_50%,#FFB7C5_75%,#076EFF_100%)]" />
+  <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-black px-6 py-1 text-sm font-medium text-white backdrop-blur-3xl">
+    Today
+  </span>
+</button>
                 </DrawerTrigger>
                 <DrawerContent className="bg-black border-0">
                   <div className=" h-auto">
@@ -119,7 +121,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className="text-white" >All the best, friend.</span>
+           <DrawerTitle><span className="text-white" ><TextGenerateEffect words="I managed to go back for a convo, but you were already going by."/></span>
            </DrawerTitle>
            
                       </div>

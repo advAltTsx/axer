@@ -2,6 +2,15 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: 'https://sneakshop.vercel.app/',
+        permanent: true,
+      },
+    ]
+  },
   output: 'export',
  
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`

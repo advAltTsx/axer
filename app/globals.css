@@ -1,6 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Nothing';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/nothing.ttf') format('ttf');
+}
  
 @layer base {
   :root {

@@ -108,7 +108,7 @@ export default function Home() {
                 <button className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none">
   <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#076EFF_0%,#FFB7C5_25%,#FFDDB7_50%,#FFB7C5_75%,#076EFF_100%)]" />
   <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-black px-6 py-1 text-sm font-medium text-white backdrop-blur-3xl">
-    Today
+    Maybe someday 
   </span>
 </button>
                 </DrawerTrigger>
@@ -121,7 +121,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="I really don't know how to talk to you. You'd just go acting like 'bruh who the hell are you, i didn't even know you existed, well you do, congratulations on that 🎉', so either you start the conversation or give any topic."/></span>
+           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="I really don't know how to talk to you. You'd just go acting like 'bruh who the hell are you, I didn't even know you existed, well you do, congratulations on that 🎉', so either you start the conversation or give any topic."/></span>
            </DrawerTitle>
            
                       </div>

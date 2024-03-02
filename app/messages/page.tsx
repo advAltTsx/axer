@@ -121,7 +121,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="I really don't know how to talk to you. You'd just go acting like 'bruh who the hell are you, i didn't even know you existed, well you do congratulations 🎉', so either you start the conversation or give any topic."/></span>
+           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="I really don't know how to talk to you. You'd just go acting like 'bruh who the hell are you, i didn't even know you existed, well you do, congratulations on that 🎉', so either you start the conversation or give any topic."/></span>
            </DrawerTitle>
            
                       </div>

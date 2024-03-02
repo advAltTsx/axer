@@ -24,6 +24,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+     fontFamily: {
+        nothing: ['Nothing'],
+        sans: ['Nothing', 'sans-serif'],
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':

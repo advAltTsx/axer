@@ -6,7 +6,7 @@
   font-family: 'Nothing';
   font-style: normal;
   font-weight: 400;
-  src: local(''), url('/fonts/nothing.ttf') format('ttf');
+  src: local(''), url('../public/fonts/nothing.ttf') format('ttf');
 }
  
 @layer base {

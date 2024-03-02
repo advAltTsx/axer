@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://sneakshop.vercel.app/',
+        destination: '/messages',
         permanent: true,
       },
     ]

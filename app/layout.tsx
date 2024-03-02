@@ -1,9 +1,20 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import local from 'next/font/local';
  
 
 const inter = Inter({ subsets: ["latin"] });
+
+const nothing = local({
+  src: [
+    {
+      path: '../public/fonts/nothing.ttf',
+      weight: '600',
+    },
+  ],
+  variable: '--font-nothing',
+});
 
 export const metadata: Metadata = {
   title: "Abhyudaya",
@@ -20,7 +31,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={nothing.variable}>
         <div vaul-drawer-wrapper="" className="bg-white min-h-[100vh]">
           {children}
         </div>

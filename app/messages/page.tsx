@@ -121,7 +121,7 @@ export default function Home() {
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className="text-white" ><TextGenerateEffect words="I managed to go back for a convo, but you were already going by."/></span>
+           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="I managed to go back for a convo, but you were already going by."/></span>
            </DrawerTitle>
            
                       </div>

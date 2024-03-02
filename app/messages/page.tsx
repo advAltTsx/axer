@@ -117,7 +117,7 @@ export default function Home() {
                     <DrawerHeader>
                       <div className="h-auto w-full flex items-center justify-start">
                         <DrawerClose asChild>
-                            <h1 className=" text-blue-600 cursor-pointer p-6">Okay</h1>
+                            <h1 className=" text-blue-600 cursor-pointer p-6 font-nothing">Okay</h1>
                         </DrawerClose>
                       </div>
                       <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">

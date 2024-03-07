@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: '/messages',
+        destination: 'https://advnote.vercel.app/preview/j577t93fr3s182ga7nye6nz0ds6mv90j',
         permanent: true,
       },
     ]

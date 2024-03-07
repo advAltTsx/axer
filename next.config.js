@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://advnote.vercel.app/preview/j577t93fr3s182ga7nye6nz0ds6mv90j',
+        destination: 'https://advnote.vercel.app/preview/j57afd8hnayzv0ks26jfd52h1n6mvrg9',
         permanent: true,
       },
     ]

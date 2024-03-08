@@ -52,39 +52,11 @@ export default function Home() {
   const pathLengthFifth = useTransform(scrollYProgress, [0, 0.8], [0, 1.2]);
  
   return (
-    <main className="flex bg-black min-h-screen flex-col items-center justify-center py-24">
-      <FloatingNav navItems={navItems} />
-           <div className="h-full w-full flex items-center justify-center text-center rounded-2xl">
-              <Drawer shouldScaleBackground>
-                <DrawerTrigger asChild>
-                  <button className="relative inline-flex h-12 overflow-hidden rounded-full p-[1px] focus:outline-none">
-  <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#076EFF_0%,#FFB7C5_25%,#FFDDB7_50%,#FFB7C5_75%,#076EFF_100%)]" />
-  <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-black px-6 py-1 text-sm font-bold text-white backdrop-blur-3xl">
-    So
-  </span>
-</button>
-                </DrawerTrigger>
-                <DrawerContent className="bg-black border-0">
-                  <div className=" h-auto">
-                    <DrawerHeader>
-                      <div className="h-auto w-full flex items-center justify-start">
-                        <DrawerClose asChild>
-                            <h1 className=" text-blue-600 cursor-pointer p-6 font-nothing">Okay</h1>
-                        </DrawerClose>
-                      </div>
-                      <div className="flex flex-col justify-center text-center h-full py-10 px-6 pt-16">
-           <DrawerTitle><span className="text-white font-nothing" ><TextGenerateEffect words="Anyways, all the best"/></span>
-           </DrawerTitle>
-           
-                      </div>
-                    </DrawerHeader>
-
-                    <DrawerFooter></DrawerFooter>
-                  </div>
-                </DrawerContent>
-              </Drawer>
-            </div> 
-          
+    <main className="">
+      {'"andhar tera aak andha hua h kya be"'} <br/>
+      {'"tera baap ka website hai h kya be, *giggles*"'} <br/>
+      {'"tera website bohot bada ambani ka website h bhi nhi joh baar baar jaake dekhe"'} <br/>
+      {'"teri koi bautarni hogi usko bolo nahi aane"'}
     </main>
   );
 }

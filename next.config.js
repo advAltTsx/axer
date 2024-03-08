@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://advnote.vercel.app/preview/j57afd8hnayzv0ks26jfd52h1n6mvrg9',
+        destination: '/WorstPersonEver.mp3',
         permanent: true,
       },
     ]

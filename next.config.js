@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: '/messages',
+        destination: '/worstpersonever.mp3',
         permanent: true,
       },
     ]

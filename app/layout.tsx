@@ -17,8 +17,8 @@ const nothing = local({
 });
 
 export const metadata: Metadata = {
-  title: "Abhyudaya",
-  description: "@advwastaken",
+  title: "Deployments paused",
+  description: "Abandoning the domain.",
   icons: {
     icon: '/logo.jpg'
   }

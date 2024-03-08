@@ -54,9 +54,9 @@ export default function Home() {
   return (
     <main className="">
       {'"andhar tera aak andha hua h kya be"'} <br/>
-      {'"tera baap ka website hai h kya be, *giggles*"'} <br/>
+      {'"tera baap ka website hai h kya be *giggles of that ... *"'} <br/>
       {'"tera website bohot bada ambani ka website h bhi nhi joh baar baar jaake dekhe"'} <br/>
-      {'"teri koi bautarni hogi usko bolo nahi aane"'}
+      {'"teri koi bhautarni hogi usko bolo nahi aane"'}
     </main>
   );
 }

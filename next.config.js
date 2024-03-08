@@ -2,15 +2,15 @@
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-  /**async redirects() {
+async redirects() {
     return [
       {
         source: '/',
-        destination: '/worstpersonever.mp3',
+        destination: '/messages',
         permanent: true,
       },
     ]
-  }, **/
+  }, 
   output: 'export',
  
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`

@@ -53,7 +53,7 @@ export default function Home() {
  
   return (
     <main className="">
-      {'https://advwastaken.vercel.app has been abandoned since 20:01, 03/08/24'}
+      {'https://advwastaken.vercel.app (community version) has been abandoned since 20:01, 03/08/24'}
     </main>
   );
 }

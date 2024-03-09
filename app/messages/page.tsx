@@ -59,9 +59,11 @@ export default function Home() {
       <br/>
       {'{"extreme hates: liars}'} 
     <br/>
-      {/**  {'{"tera website bohot bada koi ambani ka website hai bhi nahi joh baar baar dekhne aaye - apni aukaat mein raho tere paas itna bhi nhi h", "tere baap ka website hai kya be *giggles* - tumlog se jyada ganda insaan se aaj takk kabhi mulakat nahi hua", "1 saal se harr ek email dekhe ho aur puchte aur email address kaha se mila - besharam ho ekdm?", "jhuth bolne mein mbbs karke rakhe hai - agar pata rhta toh jab Scarlet ke saath ladai karrha tha tabhi tereko sorry bolne bhi nahi aata, terese jyada accha toh mera dushman log hai, mere dushman bhi mereko dekhke mere samne gaali dena baand krdete hai", "bahiniya, bhutarni - tere jaise ko *aap* bola uske baare mein zindagi bhar sochunga, tumlog jhutho baat karne bhi layak nahi ho, insaaniyat toh durr ka baat hai", "remembering these sentences - I hate even your voice now"} '}
-    **/}
+        
       {'"Stalkers falsely guessing I\'m talking about SS-B[DAV] currently, not even close, they\'re far more respectable than you, why not minding your own business instead?"'}
+   <br/>
+      {'{"tera website bohot bada koi ambani ka website hai bhi nahi joh baar baar dekhne aaye - apni aukaat mein raho tere paas itna bhi nhi h", "tere baap ka website hai kya be *giggles* - tumlog se jyada ganda insaan se aaj takk kabhi mulakat nahi hua", "1 saal se harr ek email dekhe ho aur puchte aur email address kaha se mila - besharam ho ekdm?", "jhuth bolne mein mbbs karke rakhe hai - agar pata rhta toh jab Scarlet ke saath ladai karrha tha tabhi tereko sorry bolne bhi nahi aata, terese jyada accha toh mera dushman log hai, mere dushman bhi mereko dekhke mere samne gaali dena baand krdete hai", "bahiniya, bhutarni - tere jaise ko *aap* bola uske baare mein zindagi bhar sochunga, tumlog jhutho baat karne bhi layak nahi ho, insaaniyat toh durr ka baat hai", "remembering these sentences - I hate even your voice now"} '}
+    
     </main>
   );
 }

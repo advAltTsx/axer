@@ -62,7 +62,7 @@ export default function Home() {
         
       {'"Stalkers falsely guessing I\'m talking about SS-B[DAV] currently, not even close, they\'re far more respectable than you, they\'ve even contributed for resizeable screens in v69.6.1 through GitHub, truly an advanced person (not like you, lmfao), why not minding your own business instead?"'}
    <br/>
-      {'"SS-B[DAV] is my friendliest sister. I would do whatever I want, scream, talk, or text them. Who the hell are you to even think of making me scream at them? Be in your limits."'} <br/>
+      {'"SS-B[DAV] is my friendliest sister. I would do whatever I want, scream, talk, or text them. Who the hell are you to even think of making me scream at them? Be in your limits. It\s a dare to speak something bad about them infront of me ever again."'} <br/>
       {'{"tera website bohot bada koi ambani ka website hai bhi nahi joh baar baar dekhne aaye - apni aukaat mein raho tere paas itna bhi nhi h", "tere baap ka website hai kya be *giggles* - tumlog se jyada ganda insaan se aaj takk kabhi mulakat nahi hua", "1 saal se harr ek email dekhe ho aur puchte aur email address kaha se mila - besharam ho ekdm?", "jhuth bolne mein mbbs karke rakhe hai - agar pata rhta toh jab Scarlet ke saath ladai karrha tha tabhi tereko sorry bolne bhi nahi aata, terese jyada accha toh mera dushman log hai, mere dushman bhi mereko dekhke mere samne gaali dena baand krdete hai", "bahiniya, bhutarni - tere jaise ko *aap* bola uske baare mein zindagi bhar sochunga, tumlog jhutho baat karne bhi layak nahi ho, insaaniyat toh durr ka baat hai", "remembering these sentences - I hate even your voice now"} '}
     
     </main>

@@ -69,7 +69,8 @@ export default function Home() {
         <br/>
         All I told him was to write something such worse that {"you'd never come here again yourself"} <br/>
       </span>
-        I made you call your brother to say him that <u>{"you're talented in Typescript/Javascript and we could be a great team that's why I'm looking for you or build up some stories and we'd have been in a team with granted permissions :("} </u>, but I also got angry when you gave the phone to some other kid and I knew beforehands {"there's gonna be a fight"} because of him. Also, keep damn control on your mouth I never expected this from *you* 🥲</u>
+        I made you call your brother to say him that <u>{"you're talented in Typescript/Javascript and we could be a great team that's why I'm looking for you or build up some stories and we'd have been in a team with granted permissions :("} </u>, but I also got angry when you gave the phone to some other kid and I knew beforehands {"there's gonna be a fight"} because of him. Also, keep damn control on your mouth I never expected this from *you* 🥲
+   
     </main>
   );
 }

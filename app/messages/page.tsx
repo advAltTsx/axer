@@ -65,7 +65,7 @@ export default function Home() {
       {'"SS-B[DAV] is my friendliest sister. I would do whatever I want, scream, talk, or text anyone. Who the hell are you to even think of making me scream at them? Be in your limits. It\s a dare to speak something bad about them infront of me ever again."'} <br/>
      <span className="text-red-600"><s> {'{"tera website bohot bada koi ambani ka website hai bhi nahi joh baar baar dekhne aaye - apni aukaat mein raho tere paas itna bhi nhi h", "tere baap ka website hai kya be *giggles* - tumlog se jyada ganda insaan se aaj takk kabhi mulakat nahi hua", "1 saal se harr ek email dekhe ho aur puchte aur email address kaha se mila - besharam ho ekdm?", "jhuth bolne mein mbbs karke rakhe hai - agar pata rhta toh jab Scarlet ke saath ladai karrha tha tabhi tereko sorry bolne bhi nahi aata, terese jyada accha toh mera dushman log hai, mere dushman bhi mereko dekhke mere samne gaali dena baand krdete hai", "bahiniya, bhutarni - tere jaise ko *aap* bola uske baare mein zindagi bhar sochunga, tumlog jhutho baat karne bhi layak nahi ho, insaaniyat toh durr ka baat hai", "remembering these sentences - I hate even your voice now"'}</s></span>
     <br/>
-      <span className="text-blue-500 bold"> You as well as I, we both know I would never in my life say you like this even mistakenly or in intense anger, just never 🥲
+      <span className="text-blue-500 font-bold"> You as well as I, we both know I would never in my life say you like this even mistakenly or in intense anger, just never 🥲
         <br/>
         All I told my brother-like oldest friend was to write something such worse that {"you'd never come here again yourself"} <br/>
       </span>

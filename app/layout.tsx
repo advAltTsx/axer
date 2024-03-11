@@ -17,7 +17,7 @@ const nothing = local({
 });
 
 export const metadata: Metadata = {
-  title: "Deployments paused",
+  title: "Deployments Terminated",
   description: "Abandoning the domain.",
   icons: {
     icon: '/logo.jpg'

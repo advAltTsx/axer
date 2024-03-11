@@ -53,7 +53,7 @@ export default function Home() {
  
   return (
     <main className="">
-      {'{"https://advwastaken.vercel.app has been discontinued since 03/10/24 after a journey of 3 years and ultimately achieving 524,788 views with 1,189 anonymous user, 106 bots, 51 web scrapers and experiencing 17 XSS, 7 DDos, 5 MiTM attacks, 1 SQL injection. Sayonara :("}'}
+      {'{"https://advwastaken.vercel.app has been discontinued since 03/10/24 after a journey of 3 years and ultimately achieving 524,788 views with 6,189 anonymous user, 106 bots, 51 web scrapers and experiencing 17 XSS, 7 DDos, 5 MiTM attacks, 1 SQL injection. Sayonara :("}'}
    
       
     </main>

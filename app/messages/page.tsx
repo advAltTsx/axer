@@ -53,7 +53,7 @@ export default function Home() {
  
   return (
     <main className="">
-      {'{"https://advwastaken.vercel.app (complete) has been discontinued since 03/10/24"}'}
+      {'{"https://advwastaken.vercel.app has been discontinued since 03/10/24"}'}
    
       
     </main>

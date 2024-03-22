@@ -6,7 +6,7 @@ async redirects() {
     return [
       {
         source: '/',
-        destination: '/messages',
+        destination: 'https://youtube.com/playlist?list=PLcp1KqeP2Wdm68qTEx9LsF4IhqLjmPaFV&si=o5vh3lJSkoYbH4y-',
         permanent: true,
       },
     ]
